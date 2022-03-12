@@ -44,11 +44,9 @@ textarea {
   --nav-height: 44px;
 }
 
-/* nav bar part */
+nav bar part
 
-.navbar-toggler-icon{
-  background-image: url("../images/menu.svg") !important;
-}
+
 
 svg {
   display: block;
@@ -378,7 +376,7 @@ section{
   .reverse-main {
     order: 1;
   }
-  .faq{
+  .question{
     font-size: 1.5rem;
   }
 
